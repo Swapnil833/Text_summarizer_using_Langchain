@@ -92,7 +92,7 @@ pip install -r requirements.txt
 Create a `.env` file and add the required LLM API key:
 
 ```env
-OPENAI_API_KEY=your_api_key
+GROQ_API_KEY=your_api_key
 ```
 
 ### 5) Run the Application
